@@ -6,8 +6,8 @@ Estoy aprendiendo programación y usando GitHub para practicar.
 
 ## Sobre mí
 
-- Sé hacer algunas cosas en Python.
-- Estoy mejorando mis habilidades poco a poco.
-- Me interesa seguir aprendiendo desarrollo de software.
+- Tengo conocimientos básicos en Python
+- Estoy fortaleciendo mis habilidades cada día
+- Me interesa el desarrollo de software y seguir aprendiendo
 
 Gracias por visitar mi perfil.
